@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  pixelscrambling
+
+  Created by Tony Wu on 1/21/19.
+  Copyright © 2019 Tony Wu. All rights reserved.
+*/
+
+"no GPU" = "您的 GPU 不支持 Metal API";
+"no image" = "图片读取失败";
+"length mismatch" = "Error: length mismatch. This is a programming error.";
+"division by zero" = "Error: division by zero. This is a programming error.";
+"file moved" = "图片输出失败，文件可能被移动或删除了。";
+"compute" = "位图处理完成";
+"blit" = "图片已储存到系统内存";
+"Setting up GPU..." = "正在设置 GPU 参数...";
+"Failed to load Metal library." = "Metal 函数库读取失败";
+"Failed to load Metal functions." = "Metal 函数库读取失败";
+"Failed to make GPU command queue." = "GPU 操作执行失败";
+"Failed to create compute pipelines, error code " = "GPU 操作设置失败，错误 ";
+"Loading image into GPU texture..." = "正在将图片复制到 GPU 内存...";
+"Cannot determine pixel format of image." = "无法识别图片的像素排列方式";
+"Failed to load image into GPU." = "GPU 无法读取图片";
+"Generating lookup table..." = "正在生成密码表...";
+"Cannot determine pixel format of lookup table." = "无法确定密码表的像素排列方式";
+"Failed to produce lookup table." = "无法生成密码表";
+"Computing new bitmap..." = "正在生成图片...";
+"Failed to schedule GPU computation." = "GPU 计算任务安排失败";
+"Failed to start GPU computation." = "GPU 计算任务启动失败";
+"Failed to read image bitmap from memory." = "无法从内存复制生成的图片";
+"Failed to write image to cache directory, error code " = "无法将图片保存到缓存文件夹中，错误 ";
+"Done." = "完成";
+"Unscramble" = "解密";
+"Scramble" = "加密";
+"CIPHERED → ORIGINAL" = "密文 → 明文";
+"ORIGINAL → CIPHERED" = "明文 → 密文";
+"ORIGINAL" = "明文";
+"CIPHERED" = "密文";
+"Failed to setup image for processing. Image format may be unsupported." = "无法预处理图片，图片格式可能不受支持";
+"Choose a file..." = "选择文件...";
+"Open" = "打开";
+"Choose a file to use as the encryption/decryption key for the image" = "选择一个文件用于密码表的生成";
+"Cancelled." = "已取消";
+"Reading config..." = "正在读取参数...";
+"Generating key..." = "正在生成密码...";
+"Cancel" = "取消";

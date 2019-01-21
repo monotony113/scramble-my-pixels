@@ -1,0 +1,185 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Use a file as password. Image can only be deciphered using the exact same file."; ObjectID = "bQ1-wy-dEZ"; */
+"bQ1-wy-dEZ.ibShadowedToolTip" = "使用文件作为密码。加密后的图片只能使用原密码文件来解密";
+
+/* Class = "NSMenuItem"; title = "Scramble My Pixels"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Scramble My Pixels";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "2dm-Zk-zIZ"; */
+"2dm-Zk-zIZ.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "→"; ObjectID = "3fc-ye-yAc"; */
+"3fc-ye-yAc.title" = "→";
+
+/* Class = "NSMenuItem"; title = "Quit Scramble My Pixels"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit Scramble My Pixels";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "About Scramble My Pixels"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About Scramble My Pixels";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "Redo";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "9QP-ip-AVC"; */
+"9QP-ip-AVC.title" = "Box";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSTextFieldCell"; title = "Drag a ciphered image here to decipher it"; ObjectID = "BhS-dE-jeg"; */
+"BhS-dE-jeg.title" = "将已加密的图片拖动到这里解密";
+
+/* Class = "NSButtonCell"; alternateTitle = "USE A PASSWORD"; ObjectID = "E3k-8f-UD3"; */
+"E3k-8f-UD3.alternateTitle" = "使用密码";
+
+/* Class = "NSButtonCell"; title = "USE A FILE"; ObjectID = "E3k-8f-UD3"; */
+"E3k-8f-UD3.title" = "使用文件作为密码";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Scramble My Pixels Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Scramble My Pixels Help";
+
+/* Class = "NSTextFieldCell"; title = "Features"; ObjectID = "Fv0-gr-hjb"; */
+"Fv0-gr-hjb.title" = "加密方式";
+
+/* Class = "NSWindow"; title = "Scramble My Pixels"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Scramble My Pixels";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Kyx-TH-jac"; */
+"Kyx-TH-jac.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Bring All to Front";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "LbQ-f6-TFM"; */
+"LbQ-f6-TFM.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "N1P-Ak-amG"; */
+"N1P-Ak-amG.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSTextFieldCell"; title = "Block Size"; ObjectID = "NW0-qt-8Nv"; */
+"NW0-qt-8Nv.title" = "密码表大小";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "OED-nz-cd3"; */
+"OED-nz-cd3.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Hide Scramble My Pixels"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide Scramble My Pixels";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "Select All";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "TMK-TP-OtX"; */
+"TMK-TP-OtX.title" = "Box";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk"; */
+"WeT-3V-zwk.title" = "Paste and Match Style";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ZOj-en-obj"; */
+"ZOj-en-obj.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "MORE OPTIONS"; ObjectID = "ZpK-nZ-F3K"; */
+"ZpK-nZ-F3K.title" = "更多选项";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Zv3-Fd-CM1"; */
+"Zv3-Fd-CM1.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "aA6-Vu-uIH"; */
+"aA6-Vu-uIH.title" = "Box";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter password here"; ObjectID = "aOR-2r-oVW"; */
+"aOR-2r-oVW.placeholderString" = "在此输入密码";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Window";
+
+/* Class = "NSButtonCell"; alternateTitle = "Unscramble"; ObjectID = "bFP-oA-YC1"; */
+"bFP-oA-YC1.alternateTitle" = "解密";
+
+/* Class = "NSButtonCell"; title = "Scramble"; ObjectID = "bFP-oA-YC1"; */
+"bFP-oA-YC1.title" = "加密";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "bii-mQ-2sY"; */
+"bii-mQ-2sY.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "cH4-oR-rZc"; */
+"cH4-oR-rZc.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "Paste";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSTextFieldCell"; title = "Pixel Grouping"; ObjectID = "k1z-gG-Aan"; */
+"k1z-gG-Aan.title" = "像素群大小";
+
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "lH2-Yz-5Xm"; */
+"lH2-Yz-5Xm.title" = "-";
+
+/* Class = "NSButtonCell"; title = "ORIGINAL"; ObjectID = "laY-Qm-qdl"; */
+"laY-Qm-qdl.title" = "明文";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "Delete";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "qOL-Mn-FJX"; */
+"qOL-Mn-FJX.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Drag an image here to cipher it"; ObjectID = "qma-pS-cpL"; */
+"qma-pS-cpL.title" = "将图片拖动到这里加密";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "rTs-Qp-IHz"; */
+"rTs-Qp-IHz.title" = "Box";
+
+/* Class = "NSMenu"; title = "Scramble My Pixels"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Scramble My Pixels";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "Cut";
+
+/* Class = "NSButtonCell"; title = "CALCULATOR MODE"; ObjectID = "ul4-Am-QaQ"; */
+"ul4-Am-QaQ.title" = "连续加密";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "Copy";
+
+/* Class = "NSButtonCell"; title = "CIPHERED"; ObjectID = "yPl-Hk-rfv"; */
+"yPl-Hk-rfv.title" = "密文";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "zDx-ki-2kJ"; */
+"zDx-ki-2kJ.title" = "Box";

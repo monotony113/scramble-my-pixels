@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  pixelscrambling
+
+  Created by Tony Wu on 1/21/19.
+  Copyright © 2019 Tony Wu. All rights reserved.
+*/
+
+"no GPU" = "Your device doesn't have a Metal-compatible GPU.";
+"no image" = "Failed to load image.";
+"length mismatch" = "Error: length mismatch. This is a programming error.";
+"division by zero" = "Error: division by zero. This is a programming error.";
+"file moved" = "Error: failed to copy file. File may have been moved.";
+"compute" = "Finished computing bitmap.";
+"blit" = "Finished copying texture to memory.";
+"Setting up GPU..." = "Setting up GPU...";
+"Failed to load Metal library." = "Failed to load Metal library.";
+"Failed to load Metal functions." = "Failed to load Metal functions.";
+"Failed to make GPU command queue." = "Failed to make GPU command queue.";
+"Failed to create compute pipelines, error code " = "Failed to create compute pipelines, error code ";
+"Loading image into GPU texture..." = "Loading image into GPU texture...";
+"Cannot determine pixel format of image." = "Cannot determine pixel format of image.";
+"Failed to load image into GPU." = "Failed to load image into GPU.";
+"Generating lookup table..." = "Generating lookup table...";
+"Cannot determine pixel format of lookup table." = "Cannot determine pixel format of lookup table.";
+"Failed to produce lookup table." = "Failed to produce lookup table.";
+"Computing new bitmap..." = "Computing new bitmap...";
+"Failed to schedule GPU computation." = "Failed to schedule GPU computation.";
+"Failed to start GPU computation." = "Failed to start GPU computation.";
+"Failed to read image bitmap from memory." = "Failed to read image bitmap from memory.";
+"Failed to write image to cache directory, error code " = "Failed to write image to cache directory, error code ";
+"Done." = "Done.";
+"Unscramble" = "Unscramble";
+"Scramble" = "Scramble";
+"CIPHERED → ORIGINAL" = "CIPHERED → ORIGINAL";
+"ORIGINAL → CIPHERED" = "ORIGINAL → CIPHERED";
+"ORIGINAL" = "ORIGINAL";
+"CIPHERED" = "CIPHERED";
+"Failed to setup image for processing. Image format may be unsupported." = "Failed to setup image for processing. Image format may be unsupported.";
+"Choose a file..." = "Choose a file...";
+"Open" = "Open";
+"Choose a file to use as the encryption/decryption key for the image" = "Choose a file to use as the encryption/decryption key for the image";
+"Cancelled." = "Cancelled.";
+"Reading config..." = "Reading config...";
+"Generating key..." = "Generating key...";
