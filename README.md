@@ -4,6 +4,8 @@ This app takes an image and a password and "scrambles" (ciphers) the image's bit
 
 Given a scrambled image and the password used to scramble it, the app can "unscramble" (decipher) the image back to its original appearance. 
 
+![](demo.gif)
+
 This app uses SHA-512 as its basis for the algorithm it uses to scramble the image according to the specified password, thus the likelihood that two passwords can be used to decipher the same image is related two the likelihood of a collision attack (minus some 60 orders of magnitude[1]). As always, choose a long, difficult password -- if you choose "1234" as your password, it's _very_ easy to brute-force attack your image.
 
 This application is written as a fun experiment i.e. full of bugs. It has not been tested extensively. Usage of this in a productive environment is not recommended. Use at your own discretion. The creator of the application cannot be held liable for any damage of any kind that may arise from said application.
