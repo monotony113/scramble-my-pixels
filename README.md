@@ -16,6 +16,8 @@ Input image format is any _bitmap_ image readable by CGImage, including JPEG, PN
 
 Requires macOS 10.13 and a Metal-compatible GPU.
 
+Have fun messing up you photos
+
 ---
 
-[1] The output range of the SHA-512 hash function is 2^512 = 1.340781E+154. However, the algorithm in the app does not use the information in the digest fully but only utilizes the ordering of bytes i.e. how each bytes compares to each other. According to my back-of-the-envelop math this output range of the password function in the app should be 64-permutation of 64 [P(64, 64)], which Google says is 1.268869321E+89.
+[1] The output range of the SHA-512 hash function is 2^512 = 1.340781E+154. However, the algorithm in the app does not fully utilize it but only takes advantage of the reordering of bytes (by sorting them in different ways). According to my back-of-the-envelop math this output range of the password function in the app should be 64-permutation of 64 [P(64, 64)], which Google says is 1.268869321E+89 (which is infinity for a personal project).
