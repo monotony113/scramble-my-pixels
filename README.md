@@ -18,6 +18,6 @@ Have fun messing up you photos[2][3]
 
 [1] The output range of the SHA-512 hash function is 2^512 = 1.340781E+154. However, the algorithm in the app does not fully utilize it but only takes advantage of the reordering of bytes (by sorting them in different ways). According to my back-of-the-envelop math this output range of the password function in the app should be 64-permutation of 64 [P(64, 64)], which Google says is 1.268869321E+89 (which is infinity for a personal project).
 
-[2]This is the first time I write in Swift, or any strong-typed language. Before this, 90% of the time I was programming was spent staring at "undefined has no property 'length'", this time 90% of the time was spent on type matching.
+[2] This is the first time I write in Swift, or any strong-typed language. Before this, 90% of the time I was programming was spent staring at "undefined has no property 'length'", this time 90% of the time was spent on type matching.
 
-[3]This application was written as a fun experiment i.e. full of bugs. It has not been tested extensively. Usage of this in a productive environment is not recommended. Use at your own discretion. The creator of the application cannot be held liable for any damage of any kind that may arise from the usage of said application.
+[3] This application was written as a fun experiment i.e. full of bugs. It has not been tested extensively. Usage of this in a productive environment is not recommended. Use at your own discretion. The creator of the application cannot be held liable for any damage of any kind that may arise from the usage of said application.
