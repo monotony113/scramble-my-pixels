@@ -595,13 +595,13 @@ extension MainViewController: NSTextFieldDelegate, NSPathControlDelegate {
     }
     
     
-    /// Cluster sizes are calculated by factorizing block size to prevent pixels that fall in to the "remainder" regions i.e. regions that are left over after tiling from falling out of the texture, which is an issue when this is not done.
+    /// Cluster sizes are calculated by factorizing block size to prevent pixels that fall in to the "remainder" regions i.e. regions that are left over after tiling from falling out of the texture, which was an issue when this is not done.
     ///
-    /// **Note:** since the lookup table uses one byte to store the distance a pixel needs to move on the x- or y-axis, when block size goes above 256 (thus the max possible distance > 256), the lowest possible cluster size would be greater than 1 to make sure lookup table bytes don't overflow.
+    /// **Note:** since the lookup table uses one byte to store the distance a pixel needs to move on the x- or y-axis, when block size goes above 256 (thus the max possible distance > 256), the lowest possible cluster size will be made greater than 1 to make sure bytes in lookup table don't overflow.
     ///
-    /// When the specified block size is both > 256 and *a prime number,* factorization would only produce the number itself because 1 is ruled out. This causes the lookup table generator to fail because it can't cover the "remainder" once the single possible cluster size runs out. Possible solutions are preventing the rendering from starting, or forcing block size to fall back to 256 when this happens.
+    /// When the specified block size is both > 256 and *a prime number,* factorization will produce only the number itself since 1 has been ruled out. This causes the lookup table generator to fail because it can't cover the "remainder" region once the only possible cluster size runs out. Possible solutions are preventing the rendering from starting, or forcing block size to fall back to 256 when this happens.
     ///
-    /// This is left a bug because it is fun to watch the program fail.
+    /// This is left as a bug because it is fun to watch the program fail.
     ///
     /// - Parameter blockSize: The block size.
     private func updateAvailableClusterSizes(blockSize: Int) {
